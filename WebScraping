@@ -1,0 +1,172 @@
+import time
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from bs4 import BeautifulSoup
+from selenium.webdriver.common.action_chains import ActionChains
+driver = webdriver.Firefox()
+driver.get("https://www.fotocasa.es/es/")
+driver.maximize_window()
+comprar=driver.find_element_by_xpath('.//div[@class="re-HomeSearchSelector-item re-HomeSearchSelector-item--buy"]')
+comprar.click()
+time.sleep(1)
+buscador= driver.find_element_by_xpath('.//div[@class="sui-MoleculeAutosuggest-input-container"]/input')
+buscador.click()
+buscador.send_keys('Murcia Capital, Murcia')
+time.sleep(1)
+buscador.send_keys(Keys.ENTER)
+for i in range(20): 
+    html_txt = driver.page_source
+    soup = BeautifulSoup(html_txt)
+
+    listaUbicacion = []
+    listaPrecio= []
+    listaHabitaciones = []
+    listaBaños = []
+    listaPlanta = []
+    listaMetros = []
+    listaAscensor = []
+    listaBalcon = []
+    listaCalefaccion = []
+    listaTerraza = []
+    listaAireAcondicionado = []
+    listaPiscina = []
+    listaParking = []
+    listaExtras = []
+    listaResumen = []
+    
+    detalles = soup.find_all('div', class_='re-CardPackPremium-info')
+    
+    for caracteristicasVivienda in detalles:
+        try:
+            ubicacion = caracteristicasVivienda.find('h3').find("span", {"class": "re-CardTitle re-CardTitle--big"}).text.replace(" ' ","").strip()
+        except:
+            ubicacion =''
+        try:
+            precio = caracteristicasVivienda.find('h3').find("span", {"class": "re-CardPriceContainer"}).find("span", {"class": "re-CardPriceComposite"}).find("span", {"class": "re-CardPrice"}).text.replace('€','').strip() 
+        except:
+            precio = ''
+        try:
+            habitaciones = caracteristicasVivienda.find('li').text.replace(' m²','').replace(' habs.','').replace(' hab.','').strip()
+        except:
+            habitaciones = ''
+        try:
+            baños = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--bathrooms"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--bathrooms">', '').\
+            replace('baños', '').replace('baño','')
+        except:
+            baños = ''
+        try:
+            planta = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--floor"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--floor">', '').\
+            replace('ª Planta', '').replace('Entresuelo', '0')
+        except:
+            planta= '' 
+            
+        try:
+            metros = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--surface"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--surface">','').\
+            replace(' m²','')
+        except:
+            metros= ''
+        try:    
+            ascensor = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--elevator"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--elevator">','')
+        except:
+            ascensor = ''
+        try:    
+            balcon = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--balcony"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--balcony">','')
+        except:
+            balcon = ''
+        try:
+            calefaccion = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--heating"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--heating">','')
+        except:
+            calefaccion = ''
+        try:
+            terraza = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--terrace"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--terrace">','')
+        except:
+            terraza = ''
+        try:
+            aireAcondicionado = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--air_conditioner"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--air_conditioner">','')
+        except:
+            aireAcondicionado = ''
+        try:
+            piscina = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--swimming_pool"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--air_conditioner">','')
+        except:
+            piscina = ''    
+        try:
+            parking = caracteristicasVivienda.find("span", {"class": "re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--parking"}).\
+            text.replace('<span class="re-CardFeaturesWithIcons-feature-icon re-CardFeaturesWithIcons-feature-icon--air_conditioner">','')
+        except:
+            parking = ''
+        try:
+            extras = caracteristicasVivienda.find("span", {"class": "sui-AtomTag-label"}).\
+            text.replace('<span class="sui-AtomTag-label" title="+5 extras">', '').replace('+','').\
+            replace('extras','')
+        except:
+            extras = ''
+    # Agregando Caracterísitcas de la vivienda.
+        listaUbicacion.append(ubicacion)
+        listaPrecio.append(precio)
+        listaHabitaciones.append(habitaciones) 
+        listaBaños.append(baños)
+        listaPlanta.append(planta)
+        listaMetros.append(metros)
+        listaAscensor.append(ascensor)
+        listaBalcon.append(balcon)
+        listaCalefaccion.append(calefaccion)
+        listaTerraza.append(terraza)
+        listaAireAcondicionado.append(aireAcondicionado)
+        listaParking.append(parking)
+        listaPiscina.append(piscina)
+        listaExtras.append(extras)
+ActionChains(driver).key_down(Keys.PAGE_DOWN).key_up(Keys.PAGE_DOWN).perform()
+    time.sleep(1)
+# Visualización de los datos.
+print(listaUbicacion ,'\n')
+print(listaPrecio ,"\n")
+print(listaHabitaciones, "\n")
+print(listaBaños, "\n")
+print(listaPlanta, "\n")
+print(listaMetros, "\n")
+print(listaAscensor, "\n")
+print(listaBalcon, "\n")
+print(listaCalefaccion, "\n")
+print(listaTerraza, "\n")
+print(listaAireAcondicionado, "\n")
+print(listaParking, "\n")
+print(listaPiscina, "\n")
+print(listaExtras, "\n")
+   # Exportamos los resultados a un fichero excel.
+import pandas as pd
+datos_viviendas = pd.DataFrame({
+    'Ubicacion': listaUbicacion,
+    'Precio': listaPrecio,
+    'Habitaciones': listaHabitaciones,
+    'Baños': listaBaños,
+    'Planta': listaPlanta,
+    'Metros': listaMetros,
+    'Ascensor': listaAscensor,
+    'Balcon': listaBalcon,
+    'Calefaccion': listaCalefaccion,
+    'Terraza': listaTerraza,
+    'Aire Acondicionado': listaAireAcondicionado,
+    'Piscina': listaPiscina,
+    'Extras': listaExtras,
+    'Parking': listaParking 
+})
+
+resultados_viviendas = pd.ExcelWriter('/Users/joseplasenciavillarejo/Desktop/Resultados_Viviendas.xlsx')
+
+datos_viviendas.to_excel(resultados_viviendas)
+
+#Guardamos el fichero excel con los datos escritos.
+try:
+    resultados_viviendas.save()
+    print('Se ha guardado correctamente los datos en el fichero Excel.')
+except:
+    print('Ha fallado al crear el dataset Resultados_Viviendas.xlsx')
