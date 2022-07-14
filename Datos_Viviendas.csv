@@ -1,0 +1,763 @@
+Ubicación;Precio;Habitaciones;Baños;Planta;Metros Cuadrados;Ascensor;Balcon;Terraza;Calefaccion;Aire Acondicionado;Piscina;Extras;Parking
+Piso en Calle Mayor, 55;145000;4;2;5;145;Ascensor;Balcón;Terraza;Calefacción;Aire acondicionado;;5;Parking
+Piso en Centro;399000;3;2;2;125;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;6;Parking
+ Piso en Centro;395000;4;2;2;172;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;10;Parking
+ Piso en Centro;189500;3;2;1;104;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Centro;370000;5;2;3;103;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Centro;178000;2;2;4;130;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Piso en Centro;385000;4;2;1;188;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Piso en Norte;335000;3;2;7;180;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Piso en Centro;250000;4;1;2;106;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Sur;119000;5;2;1;146;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;6;Parking
+ Piso en Sur;132900;3;2;4;112;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Ático en Paseo Moreras;165000;2;1;7;110;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Pedanías Norte;115000;4;1;4;120;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Casa adosada en Carretera Ñora;335000;3;2;2;115;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;10;Parking
+ Pedanías Oeste;210000;3;1;2;85;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Norte;450000;3;2;1;166;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Piso en Centro;130000;6;2;1;125;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Centro;320000;3;2;1;125;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+ Finca rústica en Pedanías Oeste;590000;5;2;1;137;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Piso en Centro;147700;3;2;1;341;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Ronda de Levante  Norte;248000;3;2;2;130;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;6;Parking
+ Casa adosada en Encina;495000;4;2;2;198;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Pedanías Oeste;119999;3;2;3;123;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Pedanías Este;110000;1;2;4;132;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Avenida de la Libertad;800000;2;3;6;182;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;10;Parking
+ Dúplex en Pedanías Oeste;279900;3;2;1;195;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+ Piso en Centro;120000;2;1;3;60;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Casa o chalet en Calle Verdolay;439000;4;3;2;143;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Piso en Centro;340000;3;1;1;75;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Pedanías NorEste;125000;1;2;3;178;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;5;Parking
+Piso en Avenida Ciudad Sanitaria;265000;3;2;4;132;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Picina;5;Parking
+ Pedanías Oeste;74000;3;1;3;82;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Calle Fuensanta;279900;3;3;5;143;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Pedanías Oeste;176000;3;2;3;107;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;5;Parking
+ Casa adosada en Pedanías Oeste;378000;4;2;3;150;Ascensor;;;Calefaccion ;Aire acondicionado;Piscina;6;Parking
+ Casa adosada en Campo de Murcia;278000;3;2;1;123;Ascensor;;;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Piso en Rector Loustau;498000;3;2;3;198;Ascensor;;;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Centro;670000;4;2;2;193;Ascensor;;;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Piso en Madre de Dios;150000;3;2;1;96;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;5;Parking
+ Centro;53000;2;1;2;65;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Centro;154600;3;2;2;130;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;6;Parking
+ Piso en Centro;72400;3;2;2;95;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Sur;309000;4;3;1;170;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;10;Parking
+ Piso en Campo de Murcia;80000;1;1;2;52;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;11;Parking
+ Dúplex en Calle Cañada Escondida;258000;3;2;5;123;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Pedanías Oeste;299900;4;3;2;178;;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;4;Parking
+ Piso en Ramonico;115000;3;1;3;79;;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Pedanías Este;97000;3;2;1;97;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;6;Parking
+ Piso en Norte;120000;2;1;2;65;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Pedanías Este;480000;4;2;1;293;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Piso en Norte;68000;2;2;3;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Casa adosada en Pedanías Norte;269900;4;3;0;135;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;4;Parking
+ Ático en Centro;286500;2;2;2;125;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;4;Parking
+ Piso en Pedanías Oeste;118000;2;1;2;73;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Apartamento en Centro;380000;3;2;3;225;;Balcon;;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+Piso en Norte;185000;3;2;1;132;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;9;Parking
+ Piso en Sur;105000;3;1;3;82;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;7;Parking
+ Casa adosada en Pedanías Norte;309900;2;2;0;85;;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;4;Parking
+ Ático en Norte;300000;2;1;1;69;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Casa o chalet en Rosario;309000;3;3;4;139;;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Pedanías Norte;319000;3;3;3;117;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;10;Parking
+ Ático en Norte;300000;4;3;2;172;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;12;Parking
+ Piso en Centro;133000;3;2;2;120;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Apartamento en Centro;199000;3;2;4;106;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Ático en Sur;360000;2;2;2;79;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+ Piso en Centro;109999;2;2;3;140;Ascensor;;;Calefaccion ;Aire acondicionado;;22;Parking
+ Piso en Pedanías Oeste;98000;3;2;1;133;Ascensor;;;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Sur;93000;3;2;2;85;Ascensor;;;Calefaccion ;Aire acondicionado;;54;Parking
+ Piso en Sur;275000;4;2;1;120;Ascensor;;;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+ Casa o chalet en Pedanías Oeste;110000;3;1;0;89;;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Centro;79000;4;2;3;200;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Sur;140000;1;1;1;60;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;6;Parking
+ Ático en Pedanías Oeste;398000;2;1;4;65;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;7;Parking
+ Piso en Avenida Academia de Infantería;61500;3;2;1;102;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;8;Parking
+ Piso en Corvera Golf Country Club;260000;4;3;2;146;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;8;Parking
+ Campo de Murcia;550000;2;2;0;79;;Balcon;;Calefaccion ;Aire acondicionado;Piscina;9;Parking
+ Piso en Pedanías Oeste;480000;3;2;1;128;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Piso en Centro;150000;5;3;1;200;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Centro;800000;5;3;3;225;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Apartamento en Centro;120000;2;1;1;53;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Casa o chalet en Calle Verdolay;149900;3;2;0;120;;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Pedanías Este;248000;3;2;2;95;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Piso en Calle Isabel Navarro;698000;3;2;1;132;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;4;Parking
+ Pedanías Este;189000;5;5;2;457;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;6;Parking
+ Piso en Sur;288000;3;2;1;105;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;7;Parking
+ Piso en Pedanías Este;120000;3;2;3;122;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;8;Parking
+ Casa o chalet en Pedanías Oeste;149900;2;1;0;95;;Balcon;;Calefaccion ;Aire acondicionado;;9;Parking
+ Piso en Sur;248000;1;1;2;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Piso en Avenida Academia de Infantería;145000;4;2;1;122;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+Piso en Centro;550000;3;3;2;175;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Centro;525000;5;2;6;209;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Casa o chalet en Avena;134000;3;2;3;115;;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;11;Parking
+ Campo de Murcia;259000;3;2;3;80;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Carril Iglesia  en  S.y Zaraiche;129000;4;4;1;220;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;11;Parking
+ Norte;300000;4;2;1;193;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;33;Parking
+ Ático en Sur;670000;3;2;3;96;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;11;Parking
+ Casa adosada en Pedanías Norte;150000;2;1;2;65;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;22;Parking
+ Piso en Centro;53000;3;2;2;116;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;41;Parking
+ Piso en Sur;154600;3;2;2;118;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;21;Parking
+ Piso en Campo de Murcia;395000;4;3;2;170;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Dúplex en Calle Cañada Escondida;72400;1;1;2;52;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+ Pedanías Oeste;270000;3;2;1;123;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Centro;309000;3;9;1;160;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;33;Parking
+ Piso en Ramonico;80000;4;3;1;178;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;11;Parking
+ Pedanías Este;258000;3;1;5;79;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;33;Parking
+ Piso en Constitución;314900;3;2;2;97;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;11;Parking
+ Piso en Norte;299900;2;1;3;65;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;22;Parking
+ Piso en Pedanías Este;115000;4;2;3;90;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;33;Parking
+ Piso en Norte;97000;4;3;1;135;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;11;Parking
+ Ático en Pedanías Este;120000;3;2;1;94;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;22;Parking
+ Casa adosada en Pedanías Norte;88000;2;2;1;125;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Ático en Centro;269900;3;2;2;225;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Pedanías Oeste;70000;3;1;2;112;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Apartamento en Centro;286500;4;2;1;124;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Dúplex en Pedanías Este;380000;2;2;0;70;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;5;Parking
+ Casa adosada en Pedanías Oeste;140000;4;2;0;150;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;6;Parking
+ Piso en Calle Andres Sobejano;120000;2;1;2;100;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;6;Parking
+ Casa o chalet en Campo de Murcia;73200;1;2;0;145;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;8;Parking
+ Ático en Norte;85000;3;3;4;95;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;9;Parking
+ Casa o chalet en Pedanías Este;124000;4;4;0;154;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;0;Parking
+ Piso en Sur;98000;3;2;2;98;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;8;Parking
+ Piso en Angeles;230000;2;1;3;90;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Pedanías Este;430000;3;1;2;87;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Casa adosada en Campo de Murcia;430000;4;2;1;112;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+Piso en Centro;780000;3;2;5;266;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Sur;295000;4;3;7;150;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Centro;395000;4;1;8;250;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Centro;370000;5;2;7;175;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;5;Parking
+ Casa adosada en Pedanías Norte;299900;4;3;3;195;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Norte;215000;4;1;8;145;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Centro;468000;3;2;2;225;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Pedanías Norte;155000;2;1;3;85;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Rincón de Seca;85500;2;2;3;77;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Pedanías Oeste;146000;1;2;0;75;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Sur;42000;2;3;3;197;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Calle San Luis;140000;1;2;5;115;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+ Pedanías Este;74500;4;1;0;60;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;4;Parking
+ Piso en Torre;257000;3;2;3;175;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+Piso en Espinardo;335000;2;2;3;90;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Pedanías Este;275000;2;1;3;151;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Campo de Murcia;76500;1;2;0;82;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+ Piso en Centro;149900;5;1;2;90;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Avenida Rector José Loustau;69000;2;2;1;198;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Centro;525000;1;3;0;85;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+ Piso en Avenida Marqués de Los Vélez;498000;1;1;3;79;Ascensor;Balcon;;;Aire acondicionado;;1;Parking
+ Norte;165000;3;2;0;100;Ascensor;Balcon;;;Aire acondicionado;Piscina;3;Parking
+ Ático en Pedanías Este;115000;2;9;0;132;Ascensor;Balcon ;Terraza;;Aire acondicionado;;2;Parking
+ Piso en Centro;320000;2;3;0;122;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;;2;Parking
+ Piso en Calle Fuensanta;315500;2;1;0;93;Ascensor;;Terraza;;Aire acondicionado;Piscina;2;Parking
+Piso en Pedanía Este;300000;3;2;0;182;Ascensor;Balcon;;;Aire acondicionado;Piscina;3;Parking
+ Pedanías Oeste;122500;1;1;1;99;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;Piscina;3;Parking
+ Piso en Centro;495000;2;3;2;100;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;5;Parking
+ Piso en Centro;326000;1;1;1;200;Ascensor;;;Calefaccion ;Aire acondicionado ;;6;Parking
+ Ático en Paseo Moreras;381000;1;2;4;150;Ascensor;;;;Aire acondicionado;;6;Parking
+ Pedanías Norte;149000;2;2;3;122;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+ Ático en Centro;95000;1;1;4;85;Ascensor;Balcon ;Terraza;;Aire acondicionado;;4;Parking
+ Piso en Centro;123431;2;3;3;120;Ascensor;;Terraza;;Aire acondicionado;;3;Parking
+ Piso en Avenida Ciudad Sanitaria;111111;2;2;2;89;Ascensor;Balcon ;Terraza;;Aire acondicionado;;3;Parking
+ Pedanías Oeste;45000;1;2;2;45;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;Piscina;3;Parking
+ Piso en Avenida Academia de Infantería;430000;4;2;4;200;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;;3;Parking
+ Norte;555000;4;2;4;300;Ascensor;;;Calefaccion ;Aire acondicionado ;;3;Parking
+ Piso en Sur;100000;2;2;3;200;Ascensor;;;;Aire acondicionado;Piscina;2;Parking
+ Piso en Avenida de la Libertad;95000;1;2;2;146;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;4;Parking
+ Centro;86454;2;1;1;79;Ascensor;Balcon ;Terraza;;Aire acondicionado;;2;Parking
+ Piso en Pedanías Oeste;65888;1;1;4;128;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;Piscina;3;Parking
+ Piso en Avenida Academia de Infantería;99987;1;2;0;121;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;4;Parking
+ Norte;123675;1;2;1;100;Ascensor;;Terraza;;Aire acondicionado;;3;Parking
+Piso en Sur;93000;3;1;2;89;Ascensor;;Terraza;;Aire acondicionado;;3;Parking
+ Piso en Campo de Murcia;54200;3;2;2;87;Ascensor;;;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Finca rústica en Pedanías Oeste;130000;3;1;3;94;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Sur;125000;4;3;1;154;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Piso en Norte;380000;4;2;2;153;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Casa adosada en Campo de Murcia;100300;4;3;0;146;;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Pedanías Oeste;287000;3;2;2;132;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Picina;4;Parking
+ Piso en Avenida Academia de Infantería;381000;4;3;2;158;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+ Norte;265000;4;2;1;150;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;4;Parking
+ Piso en Avenida Ciudad Sanitaria;326000;2;2;2;138;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Pedanías Oeste;420000;4;3;2;138;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Piso en Pedanías Oeste;109999;3;1;1;89;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;4;Parking
+ Piso en Centro;289900;3;2;1;87;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;10;Parking
+ Finca rústica en Pedanías Este;150123;3;1;0;86;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;11;Parking
+Casa adosada en Avenida 14 de Abril;97500;4;3;0;154;;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;2;Parking
+ Pedanías Oeste;99999;4;2;3;153;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+Ático en Centro;200000;4;1;3;75;Ascensor;;;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Avenida Academia de Infantería;436000;2;3;1;174;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;2;Parking
+ Norte;325000;4;2;1;200;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+ Casa o chalet en Pedanías Oeste;147700;4;2;3;123;;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;5;Parking
+ Casa adosada en Encina;89000;3;2;2;126;;;;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Pedanías Oeste;118000;3;2;2;104;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+ Piso en Diego Hernandez;210000;3;2;2;120;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+ Sur;155000;4;1;2;90;Ascensor;;;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Camelias;130000;3;2;2;71;Ascensor;;;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Torre Lorca;74500;3;2;1;197;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Pedanías Este;180000;3;4;1;300;Ascensor;;Terraza;;Aire acondicionado;;2;Parking
+ Piso en Calle Trinidad;650000;4;2;1;271;Ascensor;;;;Aire acondicionado;Piscina;3;Parking
+ Centro;69000;5;2;5;126;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;3;Parking
+ Piso en Calle Herradura;240000;2;2;2;104;Ascensor;;;;Aire acondicionado;;5;Parking
+ Centro;315700;1;2;3;120;Ascensor;;Terraza;;Aire acondicionado;Piscina;3;Parking
+ Piso en Pedanías Norte;195000;1;2;3;90;Ascensor;;;;Aire acondicionado;;4;Parking
+ Piso en Campo de Murcia;550000;2;2;1;71;Ascensor;Balcon ;Terraza;;Aire acondicionado;;4;Parking
+ Dúplex en Pedanías Este;175000;1;1;1;197;Ascensor;;;;Aire acondicionado;Piscina;4;Parking
+ Piso en Centro;300000;2;2;1;132;Ascensor;;;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Piso en Pedanías Este;320000;2;2;2;122;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Apartamento en Norte;79000;1;4;2;93;Ascensor;;;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Casa o chalet en Campo de Murcia;279000;4;2;1;182;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Piso en Sur;199000;4;2;2;99;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Ronda de Levante;176000;2;2;1;100;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;10;Parking
+ Norte;315000;1;2;2;200;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;11;Parking
+ Piso en Sur;289000;2;2;2;150;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Calle Cortés;340000;1;2;4;122;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+ Centro;112000;1;1;2;85;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Calle Cortés;425000;2;2;1;120;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;4;Parking
+ Centro;85500;1;2;3;89;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Pedanías Este;295000;2;4;2;45;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;6;Parking
+ Piso en Centro;395000;2;2;3;200;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Sur;370000;1;2;4;300;Ascensor;;Terraza;;Aire acondicionado;Piscina;4;Parking
+ Casa o chalet en Campo de Murcia;299900;4;2;0;65;Ascensor;;Terraza;;Aire acondicionado;;2;Parking
+ Piso en Norte;215000;4;1;3;102;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+ Piso en Virgen de la Fuensanta;468000;2;1;3;146;Ascensor;Balcon ;Terraza;;;Piscina;4;Parking
+ Piso en Norte;155000;2;2;3;79;Ascensor;Balcon ;Terraza;;;Piscina;5;Parking
+ Norte;335000;1;2;1;128;Ascensor;Balcon ;Terraza;;Aire acondicionado;;6;Parking
+ Piso en Calle Jacobo de las Leyes;210000;1;1;2;200;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;Piscina;7;Parking
+Piso en Centro;450000;2;2;3;225;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;8;Parking
+ Centro;130000;1;1;5;53;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;9;Parking
+ Piso en Marqués de Ordoño;320000;2;2;3;120;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;Piscina;6;Parking
+ Sur;590000;2;2;2;95;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;5;Parking
+ Piso en Centro;147700;1;2;1;132;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;4;Parking
+ Piso en Rincón de Seca;144400;4;1;1;457;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;3;Parking
+ Pedanías Oeste;99000;4;2;2;105;Ascensor;Balcon ;Terraza;;Aire acondicionado;;2;Parking
+ Pedanías Oeste;100000;3;2;2;132;Ascensor;Balcon;;;Aire acondicionado;;2;Parking
+ Piso en Calle Fuensanta;122312;3;1;1;82;Ascensor;Balcon;;;Aire acondicionado;Piscina;2;Parking
+ Pedanías Oeste;154111;3;1;3;143;Ascensor;Balcon;;;Aire acondicionado;;1;Parking
+ Casa adosada en Pedanías Oeste;160210;3;2;4;107;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+ Casa adosada en Campo de Murcia;78000;4;1;1;150;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;;2;Parking
+ Piso en Rector Loustau;257000;3;2;7;123;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;Piscina;1;Parking
+ Centro;335000;3;2;2;198;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;1;Parking
+ Piso en Madre de Dios;275000;4;2;1;193;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+ Centro;76500;3;2;4;96;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;2;Parking
+ Piso en Centro;149900;2;2;7;65;;Balcon;;;Aire acondicionado;Piscina;2;Parking
+ Piso en Centro;69000;3;2;4;130;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;2;Parking
+ Piso en Sur;525000;3;2;2;95;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;3;Parking
+ Piso en Campo de Murcia;498000;4;2;2;170;Ascensor;Balcon ;Terraza;;Aire acondicionado;;3;Parking
+ Dúplex en Calle Cañada Escondida;165000;1;2;1;52;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+ Pedanías Oeste;115000;3;3;1;123;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;6;Parking
+ Piso en Ramonico;320000;4;2;1;178;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;6;Parking
+ Pedanías Este;315500;3;1;1;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Norte;300000;3;3;2;97;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Pedanías Este;122500;2;1;2;65;;Balcon;;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Norte;495000;4;2;1;293;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;1;Parking
+ Casa adosada en Pedanías Norte;326000;2;2;0;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Ático en Centro;381000;4;1;4;135;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Pedanías Oeste;149000;2;3;6;125;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Apartamento en Centro;95000;2;2;3;73;;Balcon;;;;Piscina;4;Parking
+Piso en Norte;123431;3;2;2;225;;Balcon ;Terraza;;;Piscina;3;Parking
+ Piso en Sur;120000;3;2;1;132;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+ Casa adosada en Pedanías Norte;149900;3;2;0;82;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;9;Parking
+ Ático en Norte;248000;2;2;3;85;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;7;Parking
+ Casa o chalet en Rosario;145000;2;2;0;69;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;4;Parking
+ Pedanías Norte;550000;3;1;2;139;Ascensor;;;Calefaccion ;Aire acondicionado;Piscina;2;Parking
+ Ático en Norte;525000;3;2;5;117;Ascensor;;;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Centro;134000;4;2;3;172;Ascensor;;;Calefaccion ;Aire acondicionado;;10;Parking
+ Apartamento en Centro;259000;3;3;3;120;Ascensor;;;Calefaccion ;Aire acondicionado;;12;Parking
+ Ático en Sur;129000;3;1;1;106;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+ Piso en Centro;300000;2;2;3;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Pedanías Oeste;670000;2;3;2;140;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Sur;150000;3;1;2;133;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;22;Parking
+ Piso en Sur;53000;1;2;2;85;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+Piso en Centro;154600;3;1;2;120;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;54;Parking
+ Piso en Centro;395000;3;2;2;89;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Centro;370000;3;2;1;200;;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Centro;178000;4;2;3;60;;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+ Piso en Centro;385000;4;1;5;65;;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Centro;335000;4;1;2;102;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Norte;250000;3;2;3;146;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;2;Parking
+ Piso en Centro;119000;4;1;2;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Sur;132900;4;2;1;128;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;5;Parking
+ Piso en Sur;165000;2;2;1;200;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+ Ático en Paseo Moreras;115000;4;2;3;225;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;1;Parking
+ Pedanías Norte;335000;3;2;0;53;Ascensor;Balcon;;;;;1;Parking
+ Casa adosada en Carretera Ñora;210000;3;2;2;120;Ascensor;Balcon;;;;Piscina;3;Parking
+ Pedanías Oeste;450000;3;2;2;95;Ascensor;Balcon;;;;;2;Parking
+ Piso en Norte;130000;4;2;3;132;;Balcon ;Terraza;;;;2;Parking
+ Piso en Centro;320000;4;2;1;457;Ascensor;Balcon;;;Aire acondicionado;;2;Parking
+ Piso en Centro;590000;4;2;3;105;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;3;Parking
+ Finca rústica en Pedanías Oeste;147700;2;3;0;122;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+ Piso en Centro;248000;4;2;1;95;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+ Piso en Ronda de Levante  Norte;495000;3;1;4;79;Ascensor;Balcon;;;Aire acondicionado;;6;Parking
+ Casa adosada en Encina;119999;3;3;3;122;Ascensor;Balcon;;;Aire acondicionado;;6;Parking
+ Pedanías Oeste;110000;3;1;2;175;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;5;Parking
+ Piso en Pedanías Este;800000;4;2;2;209;Ascensor;;;Calefaccion ;Aire acondicionado ;;4;Parking
+ Piso en Avenida de la Libertad;279900;3;2;4;115;;;;Calefaccion ;Aire acondicionado ;;3;Parking
+ Dúplex en Pedanías Oeste;120000;3;1;2;80;Ascensor;;;;;;1;Parking
+ Piso en Centro;439000;3;3;3;220;Ascensor;;;;;;2;Parking
+ Casa o chalet en Calle Verdolay;340000;4;2;1;193;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;4;Parking
+ Pedanías Este;125000;5;2;2;96;Ascensor;Balcon;;;Aire acondicionado;;4;Parking
+ Piso en Centro;265000;2;2;1;65;;Balcon ;Terraza;;Aire acondicionado;Piscina;4;Parking
+ Piso en Carril de la Villa;74000;1;2;2;116;;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;3;Parking
+ Pedanías Este;279900;3;2;3;118;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;;1;Parking
+ Piso en Avenida Rector José Loustau;176000;4;2;3;170;Ascensor;;Terraza;;Aire acondicionado;Piscina;9;Parking
+ Centro;378000;3;1;2;52;Ascensor;Balcon;;;Aire acondicionado;Piscina;7;Parking
+ Dúplex en Pedanías Oeste;278000;5;2;1;150;Ascensor;;Terraza;;Aire acondicionado;Piscina;4;Parking
+ Piso en Sur;498000;2;2;3;123;Ascensor;Balcon;;;Aire acondicionado;;2;Parking
+ Piso en Avenida Marqués de Los Vélez;670000;4;3;0;198;Ascensor;;Terraza;;Aire acondicionado;;3;Parking
+ Norte;150000;3;1;4;193;Ascensor;Balcon;;;Aire acondicionado;;10;Parking
+ Ático en Pedanías Este;53000;4;2;1;96;Ascensor;Balcon;;;Aire acondicionado;;12;Parking
+ Casa o chalet en Calle Presbitero Ignacio Hernandez;154600;5;3;2;65;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+ Pedanías Oeste;72400;3;1;1;130;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+ Piso en Centro;309000;2;2;1;95;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+ Piso en Calle Fuensanta;80000;4;1;2;170;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;22;Parking
+Piso en Centro;258000;3;2;1;52;Ascensor;Balcon;;;Aire acondicionado;;1;Parking
+ Pedanías Oeste;299900;3;2;2;123;Ascensor;Balcon;;;Aire acondicionado;;54;Parking
+ Piso en Centro;115000;3;2;1;178;Ascensor;Balcon;;;Aire acondicionado;Piscina;1;Parking
+ Piso en Centro;97000;6;1;3;79;;Balcon;;Calefaccion ;Aire acondicionado ;;2;Parking
+ Ático en Paseo Moreras;120000;3;1;2;97;;Balcon ;Terraza;;Aire acondicionado;;5;Parking
+ Pedanías Norte;480000;5;2;2;65;Ascensor;Balcon;;;Aire acondicionado;Piscina;2;Parking
+ Ático en Centro;68000;3;1;1;293;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;2;Parking
+ Ático en Norte;269900;3;2;2;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;2;Parking
+ Piso en Centro;286500;4;2;6;135;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;1;Parking
+ Piso en Pedanías Oeste ;118000;3;2;3;125;Ascensor;Balcon;;;Aire acondicionado;Piscina;5;Parking
+Piso en Alcantarilla;380000;1;2;3;73;Ascensor;Balcon;;;Aire acondicionado;;2;Parking
+Piso en Urbanización Puerto Latino Ii, nº 6;185000;2;2;1;225;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;1;Parking
+Piso en calle del Ciclista Julián Hernández Zaragoza, 7;105000;3;2;1;132;Ascensor;Balcon;;;Aire acondicionado;;1;Parking
+Piso en Alcantarilla;309900;2;2;3;82;Ascensor;;;;Aire acondicionado;;3;Parking
+Piso en Área de Molina de Segura;300000;4;2;2;85;;;;Calefaccion ;Aire acondicionado ;Picina;2;Parking
+Piso en calle de Narciso Yepes;61500;3;2;2;69;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;2;Parking
+Casa en Área de Molina de Segura;260000;1;3;2;139;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;Piscina;2;Parking
+Piso en calle Jiménez de la Espada, 36;550000;3;2;2;117;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Casa en calle Muñoz y García, 10;480000;3;1;2;172;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;Piscina;3;Parking
+Ático en Urbanización Azarbe, nº 1;150000;3;3;1;120;Ascensor;;Terraza;;;Piscina;5;Parking
+Apartamento en calle Mayor;800000;3;1;1;106;Ascensor;Balcon;;;;Piscina;6;Parking
+Casa en Las Majadas-Las Molinetas-El Labradorcico;120000;4;2;1;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;6;Parking
+Dúplex en calle San Raul;149900;3;2;5;140;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+Piso en calle Angel Romero Elorriga, nº 3;248000;3;1;2;133;;Balcon;;Calefaccion ;Aire acondicionado;;4;Parking
+Dúplex en calle de las Islas Canarias, nº SN;698000;4;3;3;85;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Piso en calle de Mariano Padilla, 7;189000;3;2;3;120;Ascensor;Balcon ;Terraza;;Aire acondicionado;;1;Parking
+Piso en calle Piscis;288000;2;2;1;89;Ascensor;Balcon;;;Aire acondicionado;Piscina;2;Parking
+Piso en Urbanización Marinesco;120000;3;2;1;200;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;4;Parking
+Piso en calle de Comunidad, s/n;149900;3;2;1;60;;Balcon;;;Aire acondicionado;Piscina;4;Parking
+Ático en calle Puerto Tomas Maestre;248000;4;2;2;65;;Balcon;;;Aire acondicionado;Piscina;4;Parking
+Ático en calle de Meseguer, 1;145000;1;2;2;122;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;3;Parking
+Piso en Lo Pagán;550000;3;1;1;95;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;1;Parking
+Piso en Avenida de la Industria;525000;4;2;3;79;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;9;Parking
+Piso en Lo Pagán;134000;3;2;3;122;Ascensor;Balcon;;;Aire acondicionado;Piscina;7;Parking
+Piso en calle de Trafalgar;259000;3;3;2;175;Ascensor;Balcon;;;Aire acondicionado;;4;Parking
+Piso en calle del Pintor Portela, 5;129000;2;1;4;209;Ascensor;Balcon;;;Aire acondicionado;Piscina;2;Parking
+Piso en Urbanización Veneziola Golf Ll;300000;4;2;4;115;Ascensor;Balcon;;;Aire acondicionado;Piscina;3;Parking
+Chalet en Bolnuevo;670000;4;3;0;80;Ascensor;Balcon;;;Aire acondicionado;;10;Parking
+Casa en Las Delicias;150000;3;1;2;220;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;Piscina;12;Parking
+Chalet en Bolnuevo;53000;1;2;3;193;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;3;Parking
+Apartamento en El Alamillo;154600;3;1;2;96;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;;4;Parking
+Piso en calle Oasis Pl Q (Manga);395000;3;2;1;65;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;1;Parking
+Piso en calle Doctor Jiménez Díaz;72400;3;2;5;116;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;Piscina;22;Parking
+Piso en Lo Pagán;270000;3;2;7;118;Ascensor;;Terraza;;Aire acondicionado;Piscina;1;Parking
+Casa adosada en Centro Totana;309000;4;1;0;170;Ascensor;;;Calefaccion ;Aire acondicionado ;Piscina;54;Parking
+Apartamento en calle de Trinquete, 6;80000;3;1;7;52;Ascensor;;;Calefaccion ;Aire acondicionado ;Piscina;1;Parking
+Piso en La Cerámica (Mercadona);258000;3;2;3;150;Ascensor;;;Calefaccion ;Aire acondicionado ;;2;Parking
+Piso en San Isidro;314900;4;1;8;123;Ascensor;;;;Aire acondicionado;;5;Parking
+Piso en Núcleo;299900;3;2;2;198;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;2;Parking
+Ático en Puerto;115000;2;2;3;193;Ascensor;Balcon;;;Aire acondicionado;;2;Parking
+Piso en La Union;97000;3;2;3;96;Ascensor;Balcon ;Terraza;;Aire acondicionado;;2;Parking
+Piso en calle de Damián López;120000;3;2;0;65;Ascensor;Balcon ;Terraza;;Aire acondicionado;;1;Parking
+Casa adosada en calle de los Alcázares;88000;4;2;3;130;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;Piscina;5;Parking
+Chalet en Polígono Chalet B-47 Villa Coral;269900;1;2;5;95;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;;2;Parking
+Chalet en calle Gran Via Poligono y 107;70000;3;2;0;170;;;Terraza;;;;1;Parking
+Chalet en El Raal;286500;4;2;3;52;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+Ático en calle de Menéndez y Pelayo;380000;3;2;3;123;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;3;Parking
+Chalet en Lo Pagan.;140000;3;3;3;178;Ascensor;Balcon;;;Aire acondicionado;;2;Parking
+Chalet en Núcleo;120000;4;2;0;123;Ascensor;Balcon;;;Aire acondicionado;Piscina;2;Parking
+Piso en calle Aldavel;73200;3;1;2;178;Ascensor;;Terraza;;Aire acondicionado;Piscina;2;Parking
+Finca rústica en Carretera los Tarragas;112000;1;3;1;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;Piscina;3;Parking
+Dúplex en Santo Ángel;335000;3;1;0;97;Ascensor;;Terraza;;Aire acondicionado;;3;Parking
+Piso en calle Esmeralda Iii-Pl X;79999;3;2;3;65;Ascensor;Balcon;;;Aire acondicionado;Piscina;5;Parking
+Piso en La Union;146000;3;2;0;293;;Balcon;;Calefaccion ;Aire acondicionado ;;6;Parking
+Dúplex en Sangonera la Verde;275000;3;1;0;79;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;6;Parking
+Piso en calle de la Paz;76500;4;3;0;135;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;Piscina;5;Parking
+Piso en Área de Molina de Segura;55000;3;2;0;125;Ascensor;Balcon;;;Aire acondicionado;Piscina;4;Parking
+Casa en Aljucer;149900;3;2;0;73;Ascensor;Balcon ;Terraza;;Aire acondicionado;;3;Parking
+Piso en Llano de Brujas;69000;4;2;1;225;;Balcon;;;Aire acondicionado;Piscina;1;Parking
+Piso en Archena;525000;3;2;2;132;;Balcon ;Terraza;;Aire acondicionado;;2;Parking
+Piso en Puente Tocinos;498000;2;2;1;82;Ascensor;Balcon;;;Aire acondicionado;;4;Parking
+Piso en Mediterráneo-Media Sala;165000;3;2;4;85;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;Piscina;4;Parking
+Piso en calle Jiménez de la Espada;115000;3;1;3;69;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;4;Parking
+Casa en Los Barreros-Cuatro Santos;345000;4;2;4;139;Ascensor;Balcon;;Calefaccion ;Aire acondicionado ;;3;Parking
+Casa en Archena;320000;1;2;3;117;Ascensor;Balcon ;Terraza;;Aire acondicionado;;1;Parking
+Casa adosada en Área de Molina de Segura;95000;3;3;2;172;Ascensor;;;Calefaccion ;Aire acondicionado ;Piscina;9;Parking
+Piso en calle del Alcalde Germán Páez, 3;100000;4;1;2;120;Ascensor;;;Calefaccion ;Aire acondicionado ;;7;Parking
+Piso en calle calle Rubén Darío;210222;3;2;4;106;Ascensor;;;Calefaccion ;Aire acondicionado ;;4;Parking
+Piso en calle de Comunidad, s/n;149300;3;3;4;79;Ascensor;;;Calefaccion ;Aire acondicionado ;;2;Parking
+Piso en calle de Juan Fernández, 40;139211;4;1;3;140;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;3;Parking
+Chalet en calle de Canalón, 33;120000;3;2;2;133;Ascensor;Balcon;;;Aire acondicionado;;10;Parking
+Piso en Barrio San Cristobal;90000;1;1;1;85;Ascensor;Balcon ;Terraza;;Aire acondicionado;;12;Parking
+Piso en Avenida de Europa;92000;3;2;4;120;Ascensor;Balcon ;Terraza;;Aire acondicionado;;3;Parking
+Piso en calle de Cartagena;89000;3;2;0;89;Ascensor;;Terraza;;Aire acondicionado;;4;Parking
+Chalet en Avenida de Murcia, 134;78000;3;2;1;200;Ascensor;;Terraza;Calefaccion ;Aire acondicionado ;Piscina;1;Parking
+Piso en calle Aldavel;210000;3;1;2;60;;Balcon;;Calefaccion ;Aire acondicionado ;;22;Parking
+Piso en calle de Ceballos, 7;332122;4;1;2;65;;;Terraza;Calefaccion ;Aire acondicionado ;;1;Parking
+Piso en Urbanización Marinasol, Km. 14;90000;3;2;3;122;;Balcon;;Calefaccion ;Aire acondicionado;;54;Parking
+Piso en Alcantarilla;98312;3;1;1;95;;;Terraza;Calefaccion ;Aire acondicionado;;1;Parking
+Chalet en calle Las Jumillicas;90987;4;2;2;140;;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+Piso en calle de la Trapería, 5;120000;3;2;0;133;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+Dúplex en Urbanización Puerto y Playa, nº 4;95000;2;2;2;85;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;22;Parking
+Piso en La Fama;100000;3;2;2;120;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;1;Parking
+Dúplex en Los Alcázares;210222;3;2;1;89;Ascensor;;Terraza;Calefaccion ;Aire acondicionado;Piscina;54;Parking
+Piso en calle de la Trapería, 5;125000;4;2;2;200;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;Piscina;1;Parking
+Piso en calle de Pérez de Ayala;250000;1;2;2;60;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+Piso en Alcantarilla;75000;3;2;1;65;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;5;Parking
+Piso en San Diego;90000;4;2;1;122;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+Casa adosada en calle del Río Tajuña, 29;92000;3;3;0;95;Ascensor;Balcon;;Calefaccion ;Aire acondicionado;;2;Parking
+Piso en calle del Romero;115000;3;2;0;79;Ascensor;Balcon ;Terraza;;;Piscina;2;Parking
+Chalet unifamiliar en calle Hernández Ardieta;90400;4;1;3;140;Ascensor;Balcon;;;;;1;Parking
+Piso en La Catedral;320000;3;3;3;133;Ascensor;Balcon ;Terraza;;;;5;Parking
+Casa unifamiliar en calle Actor José Baeza, 12;95000;1;1;1;85;Ascensor;Balcon;;;Aire acondicionado;;2;Parking
+Casa en La Alcayna;100000;3;2;1;120;Ascensor;Balcon;;;Aire acondicionado;;1;Parking
+Casa adosada en Urbanización Bahia Palmeras;76000;3;2;3;89;Ascensor;Balcon;;;Aire acondicionado;;1;Parking
+Casa en calle de Emilio Gómez, 1;125000;3;1;2;200;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Piso en calle los Callados Zieschang Ii, Ii;21500;3;3;2;60;Ascensor;Balcon ;Terraza;Calefaccion ;Aire acondicionado ;;2;Parking
+Ático en calle de Barcelona;75000;4;2;2;65;Ascensor;Balcon;Terraza;Calefaccion ;Aire acondicionado ;Piscina;2;Parking
+Piso en calle Villagordos, 2;90000;3;2;2;122;Ascensor;;;Calefaccion ;Aire acondicionado ;;2;Parking
+Piso en Urbanización Cabo Romano, Km. 7;92000;2;2;2;95;Ascensor;Balcon;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+Piso en Urbanización Puerto y Playa , nº 1;98765;2;2;1;79;;Balcon;Terraza;Calefaccion ;Aire acondicionado;;3;Parking
+Chalet unifamiliar en Carretera Garcias y Vidales, nº 4;90400;3;3;1;122;;;;Calefaccion ;Aire acondicionado;;5;Parking
+Piso en calle a, s/n;780000;4;3;1;266;Ascensor;;;;;;5;Parking
+Piso en Prolongación Pol F. Conj Resid. Veneziola Golf Ii, S/N;295000;4;2;5;151;Ascensor;;;Calefacción; Aire acondicionado;;6;Parking
+Piso en calle Juan Carlos I, nº 5;395000;5;2;2;172; Ascensor;;Terraza;; ;;6;Parking
+Apartamento en Avenida del Carrero Blanco;370000;4;2;3;180; Ascensor;; Terraza;Calefacción; Aire acondicionado;;5;Parking
+Ático en Alcantarilla;299900;4;3;3;178; Ascensor;; Terraza; ; ;Piscina;6;Parking
+Piso en calle de Valencia, 3;215000;3;2;1;130; ;; ; Calefacción; ;;6;Parking
+Casa pareada en calle de la Moratalla;468000;3;2;1;188; Ascensor; ; Terraza; Calefacción; Aire acondicionado;;5;Parking
+Chalet en calle calle Majal Blanco;260000;3;2;1;128; Ascensor; ; Terraza; ; ;;4;Parking
+Dúplex en Avenida de Europa;83000;3;1;2;101; Ascensor; ; Terraza; ; Aire acondicionado;Piscina;3;Parking
+Casa adosada en calle del Río Tajuña, 29;145000;3;1;2;93; Ascensor; ; Terraza; ; Aire acondicionado;;6;Parking
+Piso en calle Caballón;290000;3;2;1;107; Ascensor; Balcón; ; ; ;;22;Parking
+Piso en calle de Fray Diego de Cádiz;155000;3;2;2;85; Ascensor; ; ; ; ;;3;Parking
+Piso en Casco Antiguo;140000;4;2;2;101; Ascensor; ; Terraza; Calefacción; ;Piscina;8;Parking
+Dúplex en La Hoya;257000;2;2;2;115; Ascensor; Balcón; ; Calefacción; ;;7;Parking
+Piso en calle del Río Segura, 5;112000;4;1;2;88; Ascensor; ; ; Calefacción; ;;15;Parking
+Piso en calle Canales de Veneciola;335000;3;2;4;150; ; ; Terraza; ; ;;4;Parking
+Piso en Casco Antiguo;79999;3;1;2;98; Ascensor; ; ; ; ;;4;Parking
+Piso en calle de la Barca;146000;3;2;1;95; ; Balcón; Terraza; ; ;;5;Parking
+Apartamento en Caravaca de La Cruz;275000;3;2;3;100; Ascensor; ; ; ; Aire acondicionado;;2;Parking
+Piso en Km 0-Km 3;76500;3;2;2;90; Ascensor; ; ; ; ;;2;Parking
+Piso en calle de Fuster, 15;55000;4;1;3;104; Ascensor; ; ; ; ;;6;Parking
+Piso en Avenida de la Fama;149900;3;2;4;151; ; ; Terraza; ; ;;12;Parking
+ Piso en Avenida Marqués de Los Vélez;69000;5;1;2;82; Ascensor; ; Terraza; ; Aire acondicionado;;5;Parking
+ Norte;525000;3;2;3;209; Ascensor; ; ; ; ;;4;Parking
+ Ático en Pedanías Este;498000;2;2;3;198; Ascensor; Balcón; ; Calefacción; ;;7;Parking
+ Casa o chalet en Calle Presbitero Ignacio Hernandez;165000;3;1;3;85; Ascensor; ; Terraza; ; ;;5;Parking
+ Pedanías Oeste;115000;3;1;1;79; Ascensor; Balcón; Terraza; ; Aire acondicionado;;2;Parking
+ Piso en Centro;345000;3;2;2;105; Ascensor; Balcón; Terraza; Calefacción; Aire acondicionado;;6;Parking
+ Piso en Calle Fuensanta;320000;3;2;3;130; Ascensor; ; Terraza; Calefacción; Aire acondicionado;;15;Parking
+Piso en Centro;95000;2;2;5;92; Ascensor; ; Terraza; Calefacción; Aire acondicionado;;5;Parking
+ Pedanías Oeste;100000;1;1;3;100; Ascensor ; Balcón; ; Calefacción; Aire acondicionado;;12;Parking
+ Piso en Centro;210222;3;1;2;120; Ascensor ; ; Terraza ; Calefacción; Aire acondicionado;;11;Parking
+ Piso en Centro;125000;4;2;1;124; Ascensor ; ;; Calefacción; Aire acondicionado;;8;Parking
+ Ático en Paseo Moreras;250000;1;2;1;90; Ascensor ; Balcón; Terraza ; Calefacción; Aire acondicionado;;1;Parking
+ Pedanías Norte;75000;2;1;3;99; Ascensor ; Balcón; Terraza ; Calefacción; Aire acondicionado;;2;Parking
+ Ático en Centro;90000;2;1;3;95; Ascensor ;; Terraza ; Calefacción; Aire acondicionado;;3;Parking
+ Ático en Norte;92000;3;1;3;98; Ascensor ; Balcón; Terraza ; Calefacción; Aire acondicionado;;4;Parking
+ Piso en Centro;115000;2;2;3;110; Ascensor ; Balcón;; Calefacción; Aire acondicionado;;1;Parking
+ Piso en Pedanías Oeste ;90400;4;1;1;100; Ascensor ; Balcón;; Calefacción; Aire acondicionado;;2;Parking
+Piso en calle Torre de Romo, 41;280000;4;3;5;165; Ascensor; Balcón;Terraza;;;;5;Parking
+Piso en calle de Paz Belgrado;245000;2;3;6;160; Ascensor; Balcón;Terraza; Calefacción; Aire acondicionado;;6;Parking
+Piso en calle de María de Molina, 1;47000;2;2;0;84; Ascensor;;; Calefacción; Aire acondicionado;;6;Parking
+Piso en calle Mayor;64600;4;1;3;57; Ascensor; Balcón;Terraza; Calefacción; Aire acondicionado;;5;Parking
+Piso en Urbanización Villas La Mar, Km. 4;110000;4;2;0;110; Ascensor; Balcón;Terraza; Calefacción; Aire acondicionado;;4;Parking
+Piso en Avenida de la Libertad, S/N;70000;3;2;4;148; Ascensor; Balcón;; Calefacción; Aire acondicionado;;3;Parking
+Piso en Urbanización de la Isla Grossa;260000;2;2;4;140; Ascensor; Balcón;; Calefacción; Aire acondicionado;;1;Parking
+Piso en calle Diego Carrion en El Palmar, nº 1;125000;5;1;2;76; Ascensor; Balcón;; Calefacción; Aire acondicionado;;2;Parking
+Piso en calle de la Gloria, 18;160000;2;2;0;240; Ascensor ; Balcón;Terraza; Calefacción; Aire acondicionado;;4;Parking
+Apartamento en Urbanización Puerto Mar Iii, Blo. 4;294000;2;2;2;69; Ascensor ; Balcón; Terraza; Calefacción; Aire acondicionado;;4;Parking
+Chalet en Playa Paraíso-Playa Honda;89000;3;2;6;63; Ascensor ; Balcón; Terraza; Calefacción; Aire acondicionado;;4;Parking
+Piso en calle Osuna, 2;71000;3;2;4;96; Ascensor ; Balcón; ; Calefacción; Aire acondicionado;;3;Parking
+Piso en Camino Viejo Pozo Estrecho, 57;81499;2;2;2;61; Ascensor ;; Terraza; Calefacción; Aire acondicionado;Piscina;1;Parking
+Piso en calle de Carlos Marín Menú;90000;3;1;1;79; Ascensor ;; Terraza;;;Piscina;9;Parking
+Chalet en Los Olivos;30200;3;1;5;85; Ascensor ;; Terraza;;;Piscina;7;Parking
+Piso en Caravaca de La Cruz;149000;4;2;6;80; Ascensor ; Balcón; Terraza;; Aire acondicionado;Piscina;4;Parking
+Dúplex en Acacia, 27;465000;3;4;0;280; Ascensor ; Balcón; ; Calefacción; Aire acondicionado;Piscina;2;Parking
+Casa unifamiliar en calle de la Quinta;164000;3;2;3;158; Ascensor; Balcón; ; Calefacción;;Piscina;3;Parking
+Piso en calle a, s/n;105000;4;2;0;132; Ascensor; Balcón; Terraza; Calefacción;;Piscina;10;Parking
+Piso en Área de Molina de Segura;94000;4;2;4;144; Ascensor; Balcón; ; Calefacción;;Piscina;12;Parking
+Piso en calle de la Gran Vía Alfonso X 'El Sabio';110400;3;2;4;102; Ascensor; Balcón; ; Calefacción; Aire acondicionado;Piscina;3;Parking
+Piso en San Antonio Abad-Ciudad Jardín;184500;4;2;2;104; Ascensor; Balcón; Terraza;; Aire acondicionado;;4;
+Piso en calle Santa Paula;129500;3;2;0;150; Ascensor; Balcón; ;;;;1;Parking
+Piso en calle de San Diego, 58;118000;2;2;2;134; Ascensor; Balcón; Terraza;; Aire acondicionado;;2;Parking
+Apartamento en calle de Penélope;89000;3;1;6;64; Ascensor; Balcón; ; Calefacción;;;1;Parking
+Chalet en calle Doctor Severo Ochoa;237000;2;2;4;140; Ascensor ; Balcón; ; Calefacción;;;4;Parking
+Chalet en Avenida de los Olivos, 1;39800;1;1;2;65; Ascensor ; Balcón; ;; Aire acondicionado;;1;Parking
+Dúplex en Área de Molina de Segura;55000;2;1;1;50; Ascensor ; Balcón; Terraza;;;;2;Parking
+Dúplex en calle de Pedro López Meca, 1;117000;3;1;2;68; Ascensor ; Balcón; Terraza; Calefacción; Aire acondicionado;;5;Parking
+Piso en calle Puerta de Murcia, 14;68000;5;1;1;98; Ascensor ; Balcón; ; Calefacción; Aire acondicionado;;1;Parking
+Piso en Casco Antiguo;199000;3;2;1;148; Ascensor ; Balcón; ; Calefacción;;;1;Parking
+Casa o chalet en Campo de Murcia;176000;4;2;4;107;;;Terraza; Calefacción; Aire acondicionado;;3;Parking
+Casa o chalet en Pedanías Oeste;325000;6;2;1;200; Ascensor ;;; Calefacción; Aire acondicionado;Piscina;5;Parking
+Finca rústica en Pedanías Oeste;130000;4;2;1;341; Ascensor ; Balcón;; Calefacción; Aire acondicionado;Piscina;3;Parking
+Piso en Avenida Academia de Infantería, Norte;398000;1;3;0;146; Ascensor ; Balcón;Terraza; Calefacción; Aire acondicionado;Piscina;5;Parking
+Apartamento en Norte;189000;3;1;1;41; Ascensor ; Balcón;; Calefacción; Aire acondicionado;Piscina;5;Parking
+Piso en Avenida Academia de Infantería, Norte;288000;3;2;3;122; Ascensor ; Balcón;Terraza; Calefacción; Aire acondicionado;Piscina;6;Parking
+Piso en Avenida Academia de Infantería, Norte;317000;3;2;2;122; Ascensor ; Balcón;Terraza; Calefacción; Aire acondicionado;Piscina;3;Parking
+Piso en Pedanías Este;248000;3;2;3;132; Ascensor ; Balcón;Terraza; Calefacción; Aire acondicionado;Piscina;5;Parking
+Casa o chalet en Calle Verdolay, 59, Pedanías Este;800000;4;2;7;128; Ascensor ;;Terraza; Calefacción; Aire acondicionado;Piscina;4;Parking
+Piso en Calle Cortés, Centro;300000;3;2;0;122; Ascensor ;;Terraza; Calefacción; Aire acondicionado;;10;Parking
+Piso en Marqués de Ordoño, Sur;112000;3;2;5;128; Ascensor ;;Terraza; Calefacción; Aire acondicionado;;1;Parking
+Piso en Calle Cortés, Centro;320000;4;2;2;129; Ascensor ;Balcón;Terraza; Calefacción; Aire acondicionado;;3;Parking
+Piso en Pedanías Este;257500;3;3;0;135; Ascensor ;;Terraza; Calefacción; Aire acondicionado;;5;Parking
+Casa adosada en Pedanías Oeste;269900;2;3;1;139;;Balcón;Terraza; Calefacción; Aire acondicionado;Piscina;3;Parking
+Casa adosada en Pedanías Norte;309900;3;1;6;88;;;; Calefacción; Aire acondicionado;Piscina;5;Parking
+Piso en Centro;190000;3;2;1;85; Ascensor ;Balcón;; Calefacción; Aire acondicionado;;5;Parking
+Piso en Norte;145000;3;2;1;110; Ascensor ;Balcón;; Calefacción; Aire acondicionado;;6;Parking
+Piso en Avenida Joven Futura, Pedanías Norte;155000;3;2;5;112; Ascensor ;;; Calefacción; Aire acondicionado;;3;Parking
+Finca rústica en Campo de Murcia;85000;2;2;9;82; Ascensor ;Balcón;; Calefacción; Aire acondicionado;;5;Parking
+Piso en Sur;140000;3;1;7;102; Ascensor ;;Terraza; Calefacción; Aire acondicionado;;4;Parking
+Piso en Mar de Coral, 4, Norte;193000;3;2;0;160; Ascensor ;Balcón;; Calefacción; Aire acondicionado;;10;Parking
+Piso en Centro;235000;2;3;5;77; Ascensor ;;; Calefacción; Aire acondicionado;;1;Parking
+Ático en Pedanías Este;200000;4;1;2;173; Ascensor ;Balcón;Terraza; Calefacción; Aire acondicionado;;3;Parking
+Apartamento en Actor Jose Crespo, Sur;129900;2;2;0;77; Ascensor ;;; Calefacción; Aire acondicionado;;5;Parking
+Piso en Circular, Centro;460000;2;2;1;75; Ascensor ;Balcón;; Calefacción; Aire acondicionado;;3;Parking
+Apartamento en Norte;198000;2;1;6;70; Ascensor ;;Terraza; Calefacción; Aire acondicionado;;5;Parking
+Piso en Norte;112000;3;1;1;202; Ascensor ;Balcón;Terraza; Calefacción; Aire acondicionado;;5;Parking
+Piso en Norte;155000;2;2;1;90; Ascensor ;Balcón;Terraza; Calefacción; Aire acondicionado;;3;Parking
+Casa adosada en Iris, 1, Pedanías Este;155000;3;2;1;76;;Balcón;Terraza; Calefacción; Aire acondicionado;Piscina;5;Parking
+Piso en Centro;300000;3;1;2;100; Ascensor ;;Terraza; Calefacción; Aire acondicionado;;5;Parking
+Piso en Sur;122500;4;2;1;93;Ascensor;;;;Aire acondicionado;Piscina;6;
+Piso en Avenida de la Libertad, Centro;495000;5;3;6;182;Ascensor;Balcón;;;;Piscina;3;Parking
+Piso en Centro;525000;2;3;3;185;Ascensor;;Terraza;;;Piscina;5;Parking
+Apartamento en Sur;165000;3;2;2;87;Ascensor;Balcón;;;;Piscina;3;Parking
+Ático en Centro;305000;3;2;4;158;Ascensor;;; Calefacción;Aire acondicionado;Piscina;5;
+Piso en Norte;249000;3;2;1;120;Ascensor;Balcón;Terraza; Calefacción;;Piscina;5;
+Casa adosada en Pedanías Este;138000;2;2;0;160;;Balcón;Terraza; Calefacción;Aire acondicionado;Piscina;6;
+Ático en Centro;200000;4;1;5;75;Ascensor;;Terraza; Calefacción;;Piscina;3;
+Casa o chalet en Pedanías Oeste;325000;3;2;0;200;;;Terraza; Calefacción;Aire acondicionado;Piscina;10;
+Casa adosada en Encina, Pedanías Oeste;147700;3;2;0;123;;;Terraza; Calefacción;;Piscina;11;
+Piso en Diego Hernandez, Sur;89000;3;2;3;126;Ascensor;;Terraza;;;Piscina;2;
+Piso en Camelias, 17, Pedanías Este;118000;3;2;3;104;Ascensor;Balcón;;;;Piscina;4;
+Piso en Pedanías Norte;130000;4;2;4;71;Ascensor;;;;Aire acondicionado;Piscina;5;Parking
+Piso en General Primo de Rivera, Centro;490000;4;2;6;208;Ascensor;;Terraza; Calefacción;;Piscina;6;
+Dúplex en Pedanías Este;180000;5;4;0;300;;Balcón;; Calefacción;Aire acondicionado;Piscina;1;
+Piso en Centro;650000;4;2;6;271;Ascensor;;Terraza;;Aire acondicionado;Piscina;2;
+Piso en Pedanías Este;69000;2;2;2;115;;Balcón;; Calefacción;Aire acondicionado;Piscina;4;
+Apartamento en Norte;240000;2;2;4;75;Ascensor;;Terraza;;;Piscina;4;Parking
+Casa o chalet en Campo de Murcia;315700;3;2;0;125;;;; Calefacción;Aire acondicionado;Piscina;4;Parking
+Piso en Sur;195000;5;2;5;115;Ascensor;Balcón;; Calefacción;;Piscina;3;
+Piso en Ronda de Levante, Norte;550000;3;2;2;198;Ascensor;;;;Aire acondicionado;Piscina;1;Parking
+Piso en Sur;175000;3;2;7;106;Ascensor;Balcón;Terraza;;;Piscina;9;
+Piso en Calle Cortés, Centro;300000;3;2;1;128;Ascensor;Balcón;Terraza;;;Piscina;7;
+Piso en Calle Cortés, Centro;320000;2;2;2;128;Ascensor;Balcón;Terraza;;;Piscina;4;
+Piso en Pedanías Este;79000;5;2;1;100;Ascensor;Balcón;Terraza;;;Piscina;2;
+Piso en Centro;279000;3;2;3;180;Ascensor;;; Calefacción;;Piscina;3;
+Piso en Sur;199000;3;2;3;113;Ascensor;;; Calefacción;Aire acondicionado;Piscina;10;Parking
+Casa o chalet en Campo de Murcia;176000;3;2;1;107;;;; Calefacción;;Piscina;12;
+Piso en Norte;315000;3;2;2;125;Ascensor;;Terraza;;Aire acondicionado;Piscina;3;
+Piso en Virgen de la Fuensanta, 1, Norte;289000;3;2;2;130;Ascensor;;Terraza;;Aire acondicionado;Piscina;4;
+Piso en Sur;93000;3;1;2;89;;;Terraza; Calefacción;Aire acondicionado;Piscina;1;
+Piso en Centro;415000;6;2;5;158;Ascensor;;; Calefacción;;Piscina;22;
+Finca rústica en Pedanías Oeste;130000;4;2;0;341;;;; Calefacción;;Piscina;1;
+Piso en Avenida Academia de Infantería, Norte;398000;4;3;4;146;Ascensor;;; Calefacción;;Piscina;54;Parking
+Piso en Sur;50000;3;1;7;110;;;; Calefacción;;Piscina;1;
+Piso en Pedanías Este;257500;6;2;3;129;Ascensor;;; Calefacción;;Piscina;2;Parking
+Casa o chalet en Calle Verdolay, 59, Pedanías Este;800000;3;4;0;667;;;Terraza;;;Piscina;5;
+Piso en Norte;380000;3;2;1;143;Ascensor;;Terraza;;;Piscina;6;Parking
+Piso en Pedanías Este;248000;3;2;0;132;Ascensor;;Terraza; Calefacción;;Piscina;7;Parking
+Piso en Sur;189000;3;2;0;105;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;8;Parking
+Piso en Avenida Academia de Infantería, Norte;288000;4;2;1;122;Ascensor;;Terraza; Calefacción;;Piscina;8;Parking
+Casa adosada en Campo de Murcia;100300;3;3;0;154;;;Terraza; Calefacción;;Piscina;9;
+Piso en Avenida Academia de Infantería, Norte;317000;4;2;1;122;Ascensor;;Terraza; Calefacción;;Piscina;5;Parking
+Piso en Centro;420000;1;2;5;150;Ascensor;Balcón;Terraza; Calefacción;;Piscina;3;
+Apartamento en Norte;189000;4;1;3;41;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;2;Parking
+Casa adosada en Avenida 14 de Abril, Pedanías Oeste;289900;3;3;2;138;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;Piscina;2;Parking
+Dúplex en Área de Molina de Segura;209900;3;3;0;227;Ascensor;;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Chalet en El Esparragal;550000;3;4;0;385;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;5;Parking
+Casa en Archivel;67500;2;1;2;75;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;4;Parking
+Piso en calle Aldavel;74000;3;2;0;65;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;6;Parking
+Casa adosada en Avenida de Justo Quesada, 239;99000;4;2;1;120;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;7;Parking
+Piso en Paseo de Alfonso XIII, 34;225000;3;2;2;148;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;8;Parking
+Piso en Camino a la Escuela;129000;3;2;2;103;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;9;Parking
+Piso en calle de Jumilla, 1;55000;4;1;4;82;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;5;Parking
+Piso en calle de la Cassola, 39;65000;4;2;2;135;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Chalet en Playa Paraíso-Playa Honda;690000;1;3;2;350;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;1;Parking
+Apartamento en Urbanización Estela Maris;79500;1;1;4;47;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;2;Parking
+Piso en Urbanización Mónaco, Km. 4;50000;2;1;1;77;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;11;Parking
+Piso en calle del Azahar;74200;1;2;6;110;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Casa en Algezares;93000;3;1;1;80;Ascensor;;Terraza; Calefacción;Aire acondicionado;;11;Parking
+Piso en calle Rio Muni;44990;4;1;3;90;Ascensor;;Terraza; Calefacción;Aire acondicionado;;33;Parking
+Piso en calle de la Gran Vía Alfonso X 'El Sabio';1300000;2;4;0;260;Ascensor;;Terraza; Calefacción;Aire acondicionado;;11;Parking
+Piso en Urbanización Veneciola Golf Ii;90000;3;2;0;97;Ascensor;;Terraza; Calefacción;Aire acondicionado;;22;Parking
+Piso en calle de San Cristóbal;48000;3;1;0;75;Ascensor;;Terraza; Calefacción;Aire acondicionado;;41;Parking
+Piso en calle de Comunidad, s/n;153200;3;2;2;100;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;21;Parking
+Piso en calle de Pablo Iglesias;119000;2;2;0;110;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;Piscina;3;Parking
+Casa adosada en calle Lo Pagán;64500;2;2;1;61;Ascensor;Balcón;; Calefacción;Aire acondicionado;Piscina;1;Parking
+Casa en calle Roses de Abajo-Ds Aljorra;110000;4;1;2;97;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;Piscina;2;Parking
+Chalet en calle Laguna Gral.Quero-Urrutia;125000;2;1;2;124;Ascensor;Balcón;; Calefacción;Aire acondicionado;Piscina;33;Parking
+Apartamento en Bahía;99950;2;1;4;82;Ascensor;Balcón;; Calefacción;Aire acondicionado;Piscina;11;Parking
+Piso en Urbanización Villas La Mar, Km. 4;123000;2;1;2;60;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;Piscina;33;Parking
+Apartamento en El Alamillo;95000;3;1;2;65;Ascensor;Balcón;; Calefacción;Aire acondicionado;Piscina;11;Parking
+Ático en calle Comendador Frey Luis de Paz;115000;2;2;4;95;Ascensor;Balcón;; Calefacción;Aire acondicionado;;22;Parking
+Chalet en calle Cedro;120000;3;2;1;210;Ascensor;Balcón;; Calefacción;Aire acondicionado;;6;Parking
+Piso en Bahía;87600;3;1;6;81;Ascensor;Balcón;Terraza; Calefacción;Aire acondicionado;;10;Parking
+Chalet en calle Loma Alta;285000;4;4;1;248;Ascensor;Balcón;; Calefacción;Aire acondicionado;;1;Parking
+Piso en calle de Paz Belgrado;150000;3;2;3;120;Ascensor;Balcón;;;Aire acondicionado;;3;Parking
+Casa en calle República Dominicana, 34;106000;3;2;2;125;Ascensor;;Terraza;;Aire acondicionado;;5;Parking
+Piso en San Antonio Abad-Ciudad Jardín;107000;3;1;2;172;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Dúplex en calle de la Victoria;84000;2;2;1;104;Ascensor;;Terraza;;Aire acondicionado;;5;Parking
+Apartamento en Avenida de Tierno Galvan, nº SN;128000;2;1;3;103;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+Piso en Km 0-Km 3;117000;4;1;4;130;Ascensor;Balcon;;;Aire acondicionado;;6;Parking
+Piso en calle del General Aznar;85000;4;1;1;188;;Balcon;;;Aire acondicionado;;3;Parking
+Piso en calle de Francisco Caravaca;92500;2;2;7;180;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+Piso en Km 0-Km 3;106000;3;1;2;106;Ascensor;Balcon;;;Aire acondicionado;;4;Parking
+Dúplex en Los Dolores-Los Gabatos-Hispanoamérica;155000;3;2;1;146;;Balcon ;Terraza;;Aire acondicionado;;10;Parking
+Chalet en Núcleo;459000;2;3;4;112;Ascensor;Balcon;;;Aire acondicionado;;1;Parking
+Dúplex en Urbanización Puertas del Mediterraneo, Km. 14;130000;3;1;7;110;;Balcon ;Terraza;;Aire acondicionado;;3;Parking
+Piso en calle Osuna, 2;239000;2;2;4;120;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+Piso en Centro;105000;2;2;2;115;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Apartamento en calle Puerto Mar Iii, Km. 14;126000;3;1;2;85;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+Piso en Los Dolores-Los Gabatos-Hispanoamérica;119000;2;2;1;166;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+Apartamento en calle de Penélope;45000;4;1;1;125;Ascensor;Balcon ;Terraza;;Aire acondicionado;;6;Parking
+Casa adosada en calle Laguna de Ruidera;110000;3;2;1;125;Ascensor;;;;Aire acondicionado;;3;Parking
+Piso en Bahía;149990;3;2;1;137;Ascensor;;;;Aire acondicionado;;5;Parking
+Piso en calle a, s/n;340000;4;2;1;341;Ascensor;;;;Aire acondicionado;;4;Parking
+Casa en Archena;125000;3;2;2;130;Ascensor;;;;Aire acondicionado;;10;Parking
+Piso en calle Rio Muni;44990;1;1;2;198;;Balcon ;Terraza;;Aire acondicionado;;1;Parking
+Piso en calle Monforite;46000;3;1;3;123;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Dúplex en calle del Río Loira, 51;84900;2;2;4;132;Ascensor;Balcon ;Terraza;;Aire acondicionado;;5;Parking
+Piso en Cl 31 de Octubre, 1;83000;3;1;6;182;Ascensor;Balcon ;Terraza;;Aire acondicionado;;3;Parking
+Dúplex en Urbanización Playasol Uno, nº SN;99000;1;2;1;195;Ascensor;;Terraza;;Aire acondicionado;;5;Parking
+Piso en Km 13-Km 20;77000;3;1;3;60;Ascensor;;Terraza;;Aire acondicionado;;5;Parking
+Chalet en calle de Cáceres;258500;4;3;2;143;;Balcon;;;Aire acondicionado;;3;Parking
+Piso en calle de María de Molina, 1;99000;3;1;1;75;Ascensor;;Terraza;;Aire acondicionado;;5;Parking
+Piso en Yecla;44000;4;1;3;178;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+Piso en Mediterráneo-Media Sala;59900;3;1;4;132;Ascensor;;Terraza;;Aire acondicionado;;6;Parking
+Casa en Escombreras-Alumbres;79000;2;1;3;82;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Piso en calle de Extremadura;66900;5;1;5;143;;Balcon;;;Aire acondicionado;;5;Parking
+Chalet en calle Camposol, nº C;230000;2;3;3;107;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Piso en Principe de Asturias;192500;3;2;3;150;Ascensor;Balcon;;;Aire acondicionado;;5;Parking
+Piso en Murcia;52100;2;1;1;123;Ascensor;;Terraza;;Aire acondicionado;Piscina;5;Parking
+Piso en calle Orozco;78000;2;1;3;198;Ascensor;Balcon;;;Aire acondicionado;;6;Parking
+Ático en calle de la Cava;94900;5;1;2;193;Ascensor;Balcon;;;Aire acondicionado;Piscina;3;Parking
+Chalet en Avenida de La Gola, nº 3;399900;2;4;1;96;;Balcon;;;Aire acondicionado;;10;Parking
+Piso en Barrio Peral-San Félix;92000;3;1;2;65;Ascensor;Balcon;;;Aire acondicionado;;11;Parking
+Piso en calle de José María Pemán, 12;99000;3;2;2;130;Ascensor;Balcon;;;Aire acondicionado;Piscina;2;Parking
+Dúplex en Polígono de Santa Ana-El Plan;169000;3;2;2;95;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;4;Parking
+Piso en Calarreona-Las Lomas;170000;3;2;1;170;Ascensor;Balcon;;;Aire acondicionado;Piscina;5;Parking
+Piso en San Pedro Pinatar;73000;3;2;2;52;;Balcon ;Terraza;;Aire acondicionado;;6;Parking
+Casa en La Aljorra;79000;3;1;5;123;Ascensor;Balcon;;;Aire acondicionado;;1;Parking
+Casa adosada en Urbanización Nuevo Horizonte;115000;5;2;2;178;Ascensor;Balcon;;;Aire acondicionado;;2;Parking
+Casa en La Concepción-Villalba;580000;4;6;3;79;Ascensor;Balcon;;;Aire acondicionado;;4;Parking
+Casa unifamiliar en Urbanización La Paloma;300000;3;2;1;97;Ascensor;Balcon;;;Aire acondicionado;;4;Parking
+Piso en calle del Campo;90000;4;1;2;65;Ascensor;Balcon ;Terraza;;Aire acondicionado;;4;Parking
+Piso en calle Puerta de Murcia, 14;209000;3;2;1;293;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Piso en calle a, s/n;327000;3;2;3;79;Ascensor;Balcon;;;Aire acondicionado;Piscina;1;Parking
+Piso en Muy Céntrico;90000;4;2;0;135;Ascensor;Balcon;;;Aire acondicionado;;9;Parking
+Chalet en calle La Peraleja Golf Resort;480000;4;4;2;125;Ascensor;Balcon;;;Aire acondicionado;;7;Parking
+Piso en Casco Antiguo;129000;4;2;2;73;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;4;Parking
+Casa adosada en calle Piñero, 23;79500;3;2;3;225;Ascensor;Balcon;;;Aire acondicionado;;2;Parking
+Piso en Urbanización Jardín del Mar;115500;2;2;1;132;Ascensor;Balcon;;;Aire acondicionado;;3;Parking
+Chalet en El Alamillo;266000;4;2;3;82;Ascensor;Balcon ;Terraza;;Aire acondicionado;Piscina;10;Parking
+Piso en calle de Santa Isabel, 33;155000;3;1;0;85;Ascensor;Balcon;;;Aire acondicionado;;12;Parking
+Piso en Paseo del Muelle;120000;4;1;1;69;Ascensor;Balcon ;Terraza;;Aire acondicionado;;3;Parking
+Casa pareada en Núcleo Urbano;150000;4;2;4;139;Ascensor;Balcon;;;Aire acondicionado;;4;Parking
+Casa en calle de Agustín Tárraga Ortega;99000;2;2;3;117;Ascensor;Balcon;;;Aire acondicionado;Piscina;1;Parking
+Piso en Km 13-Km 20;89000;3;1;2;172;Ascensor;Balcon;;;Aire acondicionado;;22;Parking
+Casa adosada en Centro Totana;115000;2;1;2;120;Ascensor;Balcon;;;Aire acondicionado;Piscina;1;Parking
+Apartamento en Km 13-Km 20;98000;2;1;4;106;Ascensor;Balcon ;Terraza;;Aire acondicionado;;54;Parking
+Ático en calle Embarcación Antina II, 151;145000;2;2;2;79;Ascensor;Balcon;;;Aire acondicionado;;1;Parking
+Apartamento en Lentíscar-La Puebla;66000;4;1;3;140;Ascensor;Balcon;;;Aire acondicionado;Picina;2;Parking
+Chalet en Los Olivos;290000;3;3;1;133;Ascensor;Balcon ;Terraza;;Aire acondicionado;;5;Parking
+Piso en Núcleo Urbano;65000;2;1;2;85;Ascensor;Balcon;;;Aire acondicionado;Piscina;6;Parking
+Ático en Bolnuevo;125000;5;1;1;120;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;7;Parking
+Chalet en calle del Alcalde José María Tárraga;1700000;2;6;0;89;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;8;Parking
+Casa en Lo Pagán;88000;8;1;3;200;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;8;Parking
+Chalet en calle Valle;425000;2;4;1;60;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;9;Parking
+Ático en Perín-La Azohía;188700;3;2;4;65;Ascensor;Balcon;; Calefacción;Aire acondicionado;Piscina;5;Parking
+Casa en calle de Santa Isabel;126000;3;2;1;102;Ascensor;;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Piso en Torre-Pacheco;49200;3;1;2;146;Ascensor;Balcon;; Calefacción;Aire acondicionado;;2;Parking
+Apartamento en Cuatro Plumas-La Cumbre;92000;5;2;0;79;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;2;Parking
+Casa adosada en Avenida del Príncipe de Asturias, 11;102000;4;1;1;128;Ascensor;Balcon;; Calefacción;Aire acondicionado;;3;Parking
+Casa en La Alcayna;320000;3;3;1;200;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;5;Parking
+Casa pareada en Avenida del Mirador;80300;2;2;3;225;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;4;Parking
+Apartamento en Los Cuarteros;54900;1;1;1;53;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;6;Parking
+Apartamento en Puerto;54900;3;1;0;120;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;7;Parking
+Ático en calle Aldavel;169000;1;3;2;95;Ascensor;Balcon;; Calefacción;Aire acondicionado;;8;Parking
+Piso en calle de Canarias;56000;3;1;1;132;Ascensor;;Terraza; Calefacción;Aire acondicionado;;9;Parking
+Piso en Yecla;45000;3;1;2;457;Ascensor;Balcon;; Calefacción;Aire acondicionado;;5;Parking
+Piso en calle Opalo Tres-Manga en Cartagena;195000;5;2;1;105;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;3;Parking
+Casa en El Alamillo;198000;3;3;3;122;Ascensor;Balcon;; Calefacción;Aire acondicionado;;1;Parking
+Casa en Avenida de Tierno Galvan, nº 7;155000;2;2;0;95;Ascensor;Balcon;; Calefacción;Aire acondicionado;Piscina;2;Parking
+Piso en Urbanización Golf;88000;6;1;2;79;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;11;Parking
+Chalet en calle Cazalla;279800;4;4;1;122;Ascensor;;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Casa en La Union;75000;3;1;2;175;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;11;Parking
+Casa en El Beal;257800;2;3;6;209;Ascensor;Balcon;; Calefacción;Aire acondicionado;;33;Parking
+Piso en calle Calas, 4;276000;4;1;3;115;Ascensor;;Terraza; Calefacción;Aire acondicionado;;11;Parking
+Chalet en San Javier - Santiago de La Ribera;899000;3;3;3;80;Ascensor;Balcon;; Calefacción;Aire acondicionado;Piscina;22;Parking
+Piso en La Union;103000;1;2;1;220;Ascensor;Balcon;; Calefacción;Aire acondicionado;Piscina;41;Parking
+Apartamento en Cerca Playa;55000;2;1;1;193;Ascensor;Balcon;; Calefacción;Aire acondicionado;Piscina;21;Parking
+Casa en calle calle Río Misisipi;68000;3;2;3;96;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;3;Parking
+Chalet en calle de las Ostras;179900;4;2;2;65;Ascensor;Balcon;; Calefacción;Aire acondicionado;Piscina;1;Parking
+Dúplex en calle de Pagán;87000;2;2;2;116;Ascensor;Balcon;; Calefacción;Aire acondicionado;;2;Parking
+Ático en Lo Pagán;119900;6;2;2;118;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;33;Parking
+Casa en Jumilla;29900;3;1;2;170;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;11;Parking
+Casa en San Pedro del Pinatar, Zona de - San Pedro del Pinatar;69900;3;1;2;52;Ascensor;;Terraza; Calefacción;Aire acondicionado;;33;Parking
+Ático en Centro Totana;150000;3;2;1;123;Ascensor;Balcon;; Calefacción;Aire acondicionado;;11;Parking
+Casa adosada en calle Almirante Guitián Vieitio;170100;6;3;1;160;Ascensor;;Terraza; Calefacción;Aire acondicionado;;22;Parking
+Casa adosada en calle San Quintin;150000;3;2;1;178;Ascensor;Balcon;; Calefacción;Aire acondicionado;Piscina;33;Parking
+Piso en calle Centro;113900;1;1;5;79;Ascensor;;; Calefacción;Aire acondicionado;;11;Parking
+Apartamento en Puerto;49900;3;1;2;97;Ascensor;;; Calefacción;Aire acondicionado;;22;Parking
+Piso en Puerto;89900;3;1;3;65;Ascensor;Balcon;; Calefacción;Aire acondicionado;;3;Parking
+Casa en Santiago de la Ribera;192000;3;2;3;90;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;1;Parking
+Piso en La Unión;55000;4;1;1;135;Ascensor;;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Ático en calle de Santiago;210000;3;2;1;94;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;4;Parking
+Piso en Bahía;84000;4;1;1;125;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;5;Parking
+Ático en calle Grecia;379900;2;2;2;225;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;6;Parking
+Piso en calle Salvador Giner, 3;205500;4;2;2;112;Ascensor;;; Calefacción;Aire acondicionado;;6;Parking
+Chalet en Carretera Polideportivo;350000;4;2;1;124;Ascensor;;; Calefacción;Aire acondicionado;Piscina;8;Parking
+Piso en Avenida de Venecia;195900;3;2;0;70;Ascensor;Balcon;; Calefacción;Aire acondicionado;;9;Parking
+Chalet en Avenida del Retiro;175000;4;2;0;150;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;0;Parking
+Casa adosada en El Parral;150000;3;2;2;100;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;8;Parking
+Ático en Altorreal;199950;3;2;0;145;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;4;Parking
+Casa en Los Belones;115000;2;2;4;95;Ascensor;;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Apartamento en Urbanización Montemares Iii, Km. 3;125000;3;1;0;154;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;2;Parking
+Piso en San Pedro del Pinatar - San Pedro del Pinatar Ciudad;107000;2;2;2;98;Ascensor;;; Calefacción;Aire acondicionado;;2;Parking
+Piso en calle de la Barca;39800;2;1;3;90;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;4;Parking
+Apartamento en La Manga del Mar Menor;145000;3;2;2;87;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;4;Parking
+Piso en calle Pl. de La Iglesia, 2, nº 2;155000;3;2;1;112;Ascensor;;Terraza; Calefacción;Aire acondicionado;;5;Parking
+Ático en calle del Siete de Marzo;116000;8;2;5;266;;Balcon ;Terraza; Calefacción;Aire acondicionado;;4;Parking
+Casa en calle de Cuba;168000;2;2;7;150;Ascensor;;Terraza; Calefacción;Aire acondicionado;;4;Parking
+Apartamento en Playa Grande-Castellar;99990;1;1;8;250;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;3;Parking
+Estudio en calle de San Martín de Porres;32000;3;1;7;175;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;2;Parking
+Casa adosada en Área de Molina de Segura;229900;4;3;3;195;Ascensor;;Terraza; Calefacción;Aire acondicionado;;2;Parking
+Piso en Casco Antiguo;143900;6;2;8;145;Ascensor;;Terraza; Calefacción;Aire acondicionado;;1;Parking
+Dúplex en Hacienda Dos Mares - La Manga;360000;2;4;2;225;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;2;Parking
+Piso en Avenida de la Libertad, S/N;54000;4;1;3;85;Ascensor;;Terraza; Calefacción;Aire acondicionado;;1;Parking
+Casa en calle Ds Aguado;75000;4;2;3;77;Ascensor;;Terraza; Calefacción;Aire acondicionado;;4;Parking
+Casa en Núcleo Urbano;240000;2;2;0;75;;Balcon ;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Apartamento en El Alamillo;154900;4;1;3;197;Ascensor;;Terraza; Calefacción;Aire acondicionado;;2;Parking
+Piso en calle Júpiter;120000;6;2;5;115;Ascensor;;; Calefacción;Aire acondicionado;Piscina;2;Parking
+Chalet en calle de la Sierra Espuña;580000;3;5;0;60;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;1;Parking
+Casa en Área de Molina de Segura;91900;5;1;3;175;Ascensor;;Terraza; Calefacción;Aire acondicionado;;5;Parking
+Chalet en Los Puertos-Isla Plana;1300000;3;5;3;90;;Balcon ;Terraza; Calefacción;Aire acondicionado;;2;Parking
+Piso en El Carmen;90000;1;1;3;151;;;; Calefacción;Aire acondicionado;;1;Parking
+Apartamento en Lo Pagán;118000;2;1;0;82;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;1;Parking
+Piso en Hacienda Riquelme Golf Resort;78400;1;1;2;90;Ascensor;;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Piso en Km 6-Km 8;68000;2;1;1;198;Ascensor;;; Calefacción;Aire acondicionado;;2;Parking
+Piso en calle Aldavel;74000;1;2;0;85;Ascensor;;; Calefacción;Aire acondicionado;;2;Parking
+Estudio en Urbanización Monaco, nº 609;45000;2;1;3;79;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;Piscina;2;Parking
+Piso en Santiago de La Ribera;190500;4;2;0;100;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;3;Parking
+Chalet en Los Puertos-Isla Plana;255000;3;3;0;132;Ascensor;;; Calefacción;Aire acondicionado;;3;Parking
+Piso en Los Alcázares;86900;5;2;0;122;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;5;Parking
+Chalet en Los Puertos-Isla Plana;490000;3;5;0;93;Ascensor;;; Calefacción;Aire acondicionado;;6;Parking
+Casa en Núcleo Urbano;175000;3;2;0;182;Ascensor;;Terraza; Calefacción;Aire acondicionado;;6;Parking
+Casa pareada en Núcleo Urbano;168000;2;2;1;99;Ascensor;;; Calefacción;Aire acondicionado;Piscina;5;Parking
+Casa en calle de Valverde-Castellar I, nº 9;85000;5;1;2;100;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;4;Parking
+Chalet en La Alcayna;399900;3;5;1;200;Ascensor;;; Calefacción;Aire acondicionado;;3;Parking
+Piso en Bahía;160000;3;1;4;150;Ascensor;;; Calefacción;Aire acondicionado;;3;Parking
+Dúplex en Los Peñascos-El Salero-Los Imbernones;105000;2;2;3;122;Ascensor;;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Apartamento en El Alamillo;115000;3;1;4;85;Ascensor;;; Calefacción;Aire acondicionado;;3;Parking
+Casa adosada en calle Isla Alegranza, 16;130000;1;1;0;120;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Apartamento en Avenida de Bólnuevo;70000;3;1;4;89;Ascensor;;Terraza; Calefacción;Aire acondicionado;;2;Parking
+Piso en calle de Valencia, 3;30200;4;1;3;45;Ascensor;;Terraza; Calefacción;Aire acondicionado;Piscina;4;Parking
+Dúplex en Pozo Estrecho;110000;3;2;1;200;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;2;Parking
+Casa en Área de Molina de Segura;139900;3;2;4;300;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Dúplex en Los Alcázares;155000;3;2;2;200;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;4;Parking
+Piso en Núcleo Urbano;69000;4;1;2;146;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Piso en Área de Molina de Segura;117000;4;2;2;79;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;3;Parking
+Chalet en Los Alcázares;318000;2;4;4;128;Ascensor;Balcon ;Terraza; Calefacción;Aire acondicionado;;3;Parking
